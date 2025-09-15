@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.DS_Store
+**/__pycache__/
+
+/data/raw
+/data/clean/kumar_perspective_clean/
+/data/images
+
+models/**
+
+slurm_err/**
+slurm_out/**
+
+tensorboard_logs/**
